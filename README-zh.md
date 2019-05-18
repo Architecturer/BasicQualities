@@ -13,3 +13,6 @@
 # Docker
 - Docker 网络模式，及区别
 - Docker Image 在 Registry 中的存储协议是什么？`docker pull` 的底层实现
+
+# Database
+- mysql中时间戳存储方式有几种？有什么区别？
