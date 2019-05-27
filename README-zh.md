@@ -16,3 +16,6 @@
 
 # Database
 - mysql中时间戳存储方式有几种？有什么区别？
+
+# Git
+- git merge 和 git rebase 有什么区别？
