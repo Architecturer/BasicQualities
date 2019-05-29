@@ -7,19 +7,22 @@
 ## 计算机网络
 - TCP 三次握手和四次挥手的过程
 
+## 数据库
+
+# Git
+- git merge 和 git rebase 有什么区别？
+
+# MySQL
+- mysql中时间戳存储方式有几种？有什么区别？
+
 # Golang
 - Go 创建一个 goroutine 的时候到底创建了些什么？
+- goroutine 是怎么调度的？
 
 # Docker
 - Docker 网络模式，及区别
 - Docker Image 在 Registry 中的存储协议是什么？`docker pull` 的底层实现
 - docker exec 的原理
-
-# Database
-- mysql中时间戳存储方式有几种？有什么区别？
-
-# Git
-- git merge 和 git rebase 有什么区别？
 
 # Kubernetes
 - kubectl exec 的原理
