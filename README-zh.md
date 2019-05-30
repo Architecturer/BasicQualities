@@ -8,6 +8,7 @@
 - TCP 三次握手和四次挥手的过程
 
 ## 数据库
+- 悲观锁和乐观锁的区别？
 
 # Git
 - git merge 和 git rebase 有什么区别？
