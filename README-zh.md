@@ -20,6 +20,7 @@
 - `struct` 的内存分配机制是怎样的？
 
 # Golang
+- slice、map 和 channel 的底层实现
 - Go 创建一个 goroutine 的时候到底创建了些什么？
 - goroutine 是怎么调度的？
 
