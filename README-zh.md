@@ -16,6 +16,9 @@
 # MySQL
 - mysql中时间戳存储方式有几种？有什么区别？
 
+# C/C++
+- `struct` 的内存分配机制是怎样的？
+
 # Golang
 - Go 创建一个 goroutine 的时候到底创建了些什么？
 - goroutine 是怎么调度的？
