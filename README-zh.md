@@ -33,3 +33,4 @@
 
 # Kubernetes
 - kubectl exec 的原理
+- Service 的作用和实现机制？
