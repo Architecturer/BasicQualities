@@ -19,7 +19,8 @@
 - git merge 和 git rebase 有什么区别？
 
 # MySQL
-- mysql中时间戳存储方式有几种？有什么区别？
+- mysql 中时间戳存储方式有几种？有什么区别？
+- MySQL 的聚簇索引和非聚簇索引有什么区别?
 
 # C/C++
 - `struct` 的内存分配机制是怎样的？
