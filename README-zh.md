@@ -15,6 +15,9 @@
 ## 数据库
 - 悲观锁和乐观锁的区别？
 
+## 分布式
+- 描述下 Raft 协议
+
 # Git
 - git merge 和 git rebase 有什么区别？
 
