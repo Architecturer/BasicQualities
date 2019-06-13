@@ -38,3 +38,4 @@
 # Kubernetes
 - kubectl exec 的原理
 - Service 的作用和实现机制？
+- Etcd 集群的初始状态是怎样的？
