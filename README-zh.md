@@ -49,3 +49,6 @@
 - kubectl exec 的原理
 - Service 的作用和实现机制？
 - Etcd 集群的初始状态是怎样的？
+
+# Hardware
+- SSD写放大场景有哪些？trim原理和优缺点？
