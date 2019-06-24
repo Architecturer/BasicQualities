@@ -23,6 +23,7 @@
 
 ## 分布式
 - 描述下 Raft 协议
+- Raft 里面如果出现脑裂怎么处理？
 
 # Git
 - git merge 和 git rebase 有什么区别？
@@ -48,4 +49,3 @@
 - kubectl exec 的原理
 - Service 的作用和实现机制？
 - Etcd 集群的初始状态是怎样的？
-- raft 算法里面如果出现脑裂怎么处理？
