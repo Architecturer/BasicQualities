@@ -30,6 +30,7 @@
 ## 分布式
 - 描述下 Raft 协议
 - Raft 里面如果出现脑裂怎么处理？
+- 分布式 Session 有哪几种实现方式?
 
 # Git
 - git merge 和 git rebase 有什么区别？
