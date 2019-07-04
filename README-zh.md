@@ -23,6 +23,7 @@
 - http 和 https 的区别
 - http 1 和 http 2 的区别
 - SSL 和 TLS 的区别
+- HTTP keep-alive 和 TCP keepalive 的区别?
 
 ## 数据库
 - 悲观锁和乐观锁的区别？
