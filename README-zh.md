@@ -25,6 +25,7 @@
 - http 1 和 http 2 的区别
 - SSL 和 TLS 的区别
 - HTTP keep-alive 和 TCP keepalive 的区别?
+- 输入ping IP后敲回车，发包前会发生什么？
 
 ## 数据库
 - 悲观锁和乐观锁的区别？
