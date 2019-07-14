@@ -52,6 +52,7 @@
 
 # Java
 - TreeSet 和 HashSet 的区别?
+- HashMap 的底层实现，如何解决冲突，如何扩容
 
 # Golang
 - slice、map 和 channel 的底层实现
