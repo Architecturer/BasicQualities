@@ -39,6 +39,7 @@
 - Raft 里面如果出现脑裂怎么处理？
 - 分布式 Session 有哪几种实现方式?
 - Session 和 Cookie 的联系和区别，以及各自的实现原理
+- 分布式锁有哪些主流实现方式？
 
 # Git
 - git merge 和 git rebase 有什么区别？
