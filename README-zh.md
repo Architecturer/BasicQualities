@@ -29,6 +29,7 @@
 - http 1 和 http 2 的区别
 - SSL 和 TLS 的区别
 - HTTPS 的优缺点
+- HTTPS 的通信、加密过程
 - HTTP keep-alive 和 TCP keepalive 的区别?
 - 输入ping IP后敲回车，发包前会发生什么？
 
