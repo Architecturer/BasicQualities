@@ -43,6 +43,9 @@
 - Session 和 Cookie 的联系和区别，以及各自的实现原理
 - 分布式锁有哪些主流实现方式？
 
+# Linux
+- 硬链接与软链接的区别?
+
 # Git
 - git merge 和 git rebase 有什么区别？
 
